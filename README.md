@@ -1,7 +1,7 @@
 # Netflix Content Analytics Dashboard #
 
 ## Dashboard Preview
-![Dashboard](Netflix_Data_Analysis_Dashboard)
+![Dashboard](Netflix_Data_Analysis_Dashboard.png)
 
 ## Project Overview
 This project analyzes Netflix content data to understand movies, TV shows, genres, country-wise distribution, and content growth over time.
